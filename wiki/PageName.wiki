@@ -1,5 +1,0 @@
-#summary Does yourgnome need a GUI ?
-
-= Does it ? =
-
-Just, Does yourgnome need a GUI ?, add your comment below !
