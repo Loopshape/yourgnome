@@ -1,4 +1,5 @@
 #summary Does yourgnome need a GUI ?
+#labels Featured
 
 = Does it ? =
 
