@@ -1,8 +1,9 @@
 #summary How to use yourgnome.
+#labels Featured,Phase-Deploy
 
 = Introduction =
 
-How to use "yourgnome" ?
+== How to use "yourgnome" ? ==
 
 ** 1- you don't need to install anything !, it's just a bash script.
 
