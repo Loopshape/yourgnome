@@ -1,5 +1,5 @@
 #summary Does yourgnome need a GUI ?
-#labels Featured
+#labels Phase-QA
 
 = Does it ? =
 
