@@ -1,7 +1,7 @@
 #summary Does yourgnome need a GUI ?
 #labels Phase-QA
 
-= Now, yourgnome ( version 2 ) has a simple GUI !, check it under "Downloads" tab.
+= Now, yourgnome ( version 2 ) has a simple GUI !, check it under "Downloads" tab. =
 
 Does it ?
 
