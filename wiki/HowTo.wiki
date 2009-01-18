@@ -3,16 +3,19 @@
 
 = Introduction =
 
-== How to use "yourgnome" ? ==
+== How to use "yourgnome2" ? ==
 
-** 1- you don't need to install anything !, it's just a bash script.
+** 1- you've to be root to install yourgnome2.
 
-** 2- go to your terminal, type *sh yourgnome.sh*
+** 2- extract all files from the yourgnome2.tar.gz file.
 
-** 3- choose:
- *1 1 -> Backup your gnome
- *2 2 -> Restore a backup
+** 3- go to your terminal, and run "install.sh" file.
 
-** 4- follow the on-screen instructions, it's easy !
+** 4- install work should start, and your would get an alert when install is complete.
+
+** 5- run it using:
+
+* 1- command line, by executing: yourgnome
+* 2- menu item, should be available in the next version.
 
 ** i'm waiting for any bugs or requests.
