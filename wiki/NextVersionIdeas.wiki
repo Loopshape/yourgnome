@@ -1,6 +1,4 @@
 #summary What do you want to see in the next version of yourgnome ?
 #labels Featured,Phase-QA
 
-Just asking, what do you want to see in the next version of yourgnome ?
-
 == add your comment below with details about *new features* you want to see in the *next version of yourgnome*, and also comment on other users' ideas ! ==
