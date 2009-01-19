@@ -1,4 +1,4 @@
-#summary How to use yourgnome.
+#summary How to (Install & Use) yourgnome.
 #labels Featured,Phase-Deploy
 
 = Introduction =
